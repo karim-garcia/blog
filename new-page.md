@@ -3,6 +3,7 @@ layout: post
 title: "Building an Automated CI/CD Pipeline"
 date: 2026-03-31
 categories: devops automation
+permalink: /new-page/
 ---
 
 ## The Experiment
