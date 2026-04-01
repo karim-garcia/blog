@@ -10,7 +10,4 @@ github_username: karim-garcia
 linkedin_school: karimgarciaguillen
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
-
-show_rss: false
