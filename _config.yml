@@ -6,8 +6,8 @@ permalink: /:title/
 header_pages:
   - index.md
 
-github_username:  https://github.com/karim-garcia/
-linkedin_school:  https://www.linkedin.com/in/karimgarciaguillen
+github_username: karim-garcia
+linkedin_school: karimgarciaguillen
 
 plugins:
   - jekyll-feed
