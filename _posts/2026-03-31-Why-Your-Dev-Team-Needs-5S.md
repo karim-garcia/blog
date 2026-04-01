@@ -32,9 +32,8 @@ The hardest part isn’t getting organized—it’s staying that way.
 
 ---
 
-### **The Bottom Line**
 Digital mess is insidious. It manifests as slow build times, "it works on my machine" syndrome, and developer burnout. By applying 5S, we aren’t just cleaning code; we are clearing the mental space needed to innovate.
 
-**Is your codebase a "clean room" or a "junk drawer"? Let’s discuss in the comments!**
 
-#WebDevelopment #CleanCode #Productivity #SoftwareEngineering #5SMethodology #TechLeadership #Minimalism
+
+*Original Concept by: [Burak Doğruöz](https://www.linkedin.com/pulse/5s-web-development-burak-do%C4%9Fru%C3%B6z/)*
