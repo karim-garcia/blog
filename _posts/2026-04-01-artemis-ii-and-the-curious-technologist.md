@@ -6,8 +6,8 @@ categories: reflection technology
 author: "Karim Garcia"
 description: "Reflecting on the Artemis II launch and the parallels between space exploration and a 25-year career in the technology sector."
 ---
-![Artemis II Crew](https://images-assets.nasa.gov/image/NHQ202603300010/NHQ202603300010~medium.jpg)
-*Image Credit: NASA*
+![Artemis II Crew and Orion Spacecraft](https://images-assets.nasa.gov/image/NHQ202603300010/NHQ202603300010~medium.jpg)
+*Image Credit: NASA/NHQ202603300010*
 
 
 Today, as NASA’s **Artemis II** mission officially heads for the lunar horizon, I find myself reflecting on a different kind of journey. 
@@ -35,5 +35,3 @@ To the crew of Artemis II: Godspeed. To my fellow tech explorers: Keep building,
 #ArtemisII #NASA #Technology #Innovation #TechCareer #SpaceExploration #Curiosity
 
 
-![Artemis II Crew and Orion Spacecraft](https://images-assets.nasa.gov/image/NHQ202603300010/NHQ202603300010~medium.jpg)
-*Image Credit: NASA/NHQ202603300010*
