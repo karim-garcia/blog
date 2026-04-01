@@ -25,11 +25,3 @@ The Artemis mission is the ultimate expression of that drive. In my personal per
 Artemis II reminds us that "Good Enough" is never enough. We innovate because we are curious. We automate because we want to go further. 
 
 To the crew of Artemis II: Godspeed. To my fellow tech explorers: Keep building, keep breaking, and keep looking up. Because at the end of the day, the distance between a workstation and the lunar surface is bridged by the courage to ask, *"What's next?"*
-
-***
-
-**Are you watching the launch today? How has curiosity shaped your own path in the tech world?**
-
-#ArtemisII #NASA #Technology #Innovation #TechCareer #SpaceExploration #Curiosity
-
-
