@@ -8,6 +8,8 @@ description: "Reflecting on the Artemis II launch and the parallels between spac
 ---
 ![Artemis II Crew](https://images-assets.nasa.gov/image/NHQ202603300010/NHQ202603300010~medium.jpg)
 *Image Credit: NASA*
+
+
 Today, as NASA’s **Artemis II** mission officially heads for the lunar horizon, I find myself reflecting on a different kind of journey. 
 
 I’ve been working in the technology sector for over 25 years. I’ve seen the industry shift from physical server rooms to invisible clouds, and from manual help desks to global automation. But through every era, one thing has remained the constant "fuel" for progress: **Relentless Curiosity.**
