@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9008ffc6cbb9ecc",
+        "id": "3436a5189dc7cced",
         "type": "tabs",
         "children": [
           {
-            "id": "634b42b3120e4a15",
+            "id": "482c0a079bb02eee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,11 +176,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "634b42b3120e4a15",
+  "active": "482c0a079bb02eee",
   "lastOpenFiles": [
     "_posts/2026-04-04-The-Era-of-Agentic-Business.md",
-    "_posts/2026-04-01-artemis-ii-and-the-curious-technologist.md",
+    "index.md",
+    "README.md",
     "_posts/2026-03-31-Why-Your-Dev-Team-Needs-5S.md",
+    "_posts/2026-04-01-artemis-ii-and-the-curious-technologist.md",
     "Untitled.md",
     "_posts 1/2026-04-01-artemis-ii-and-the-curious-technologist.md",
     "_posts 1/2026-03-31-Why-Your-Dev-Team-Needs-5S.md",

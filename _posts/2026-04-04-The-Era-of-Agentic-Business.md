@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Era of Agentic Business (OpenClaw edition)
-date: 2026-04-02 13:00:00 -0400
+date: 2026-04-04 13:00:00 -0400
 categories: reflection technology
 author: Karim Garcia
 description: This post explores the "early adopter" phase of autonomous agents like OpenClaw, arguing that as these tools integrate into major platforms, they will move beyond simple chat to "rip out" routine administrative tasks, making medium-level AI orchestration a mandatory skill for professional survival.
@@ -9,7 +9,6 @@ description: This post explores the "early adopter" phase of autonomous agents l
 ![OpenClaw](https://raw.githubusercontent.com/openclaw/openclaw/main/docs/assets/openclaw-logo-text-dark.svg)
 
 
-## The Era of Agentic Business (OpenClaw edition)
 
 You’ve probably heard the buzz about **OpenClaw** in tech circles lately. It’s being hailed as this incredibly versatile, open-source framework designed to bridge the gap between just "chatting" with an AI and actually getting it to execute tasks. Unlike a standard chatbot, OpenClaw is built for persistence—it can navigate browsers, talk to APIs, and maintain a "state" that lets it finish multi-step goals without you having to hold its hand every second.
 
