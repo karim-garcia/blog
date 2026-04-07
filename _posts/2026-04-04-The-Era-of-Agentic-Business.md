@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Era of Agentic Business (OpenClaw edition)
-date: 2026-04-04 13:00:00 -0400
+date: 2026-04-07 13:00:00 -0400
 categories: reflection technology
 author: Karim Garcia
 description: This post explores the "early adopter" phase of autonomous agents like OpenClaw, arguing that as these tools integrate into major platforms, they will move beyond simple chat to "rip out" routine administrative tasks, making medium-level AI orchestration a mandatory skill for professional survival.
